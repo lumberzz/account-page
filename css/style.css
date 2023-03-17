@@ -548,7 +548,7 @@ h6 {
           transition-delay: 1.5s;
 }
 
-@media (max-width: 1030px) {
+@media (max-width: 61.99875em) {
   .account {
     display: block;
   }
